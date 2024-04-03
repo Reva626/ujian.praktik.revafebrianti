@@ -1,0 +1,41 @@
+.web-header{
+    height: 10vh;
+    width: 100vw;
+    border: 0.3vh solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.menu-button{
+    border: none;
+    margin: auto;
+    height: 5vh;
+    width: 7vw;
+    background-color: salmon;
+    font-weight: bold;
+}
+.web-content{
+    height: 80vh;
+    width: 100vw;
+    border: 0.3vh solid black;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-1{
+    height: 5vh;
+    width: 40vw;
+    padding: 10vh;
+    background-color: lightgrey;
+    margin-left: 25vw;
+    margin-right: 0.5vw;
+    margin-bottom: 0.5vw;
+    border-radius: 1vw;
+    border: 0.5vh solid black;
+    display: flex;
+}
+
+
+
